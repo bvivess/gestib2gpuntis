@@ -54,12 +54,84 @@ def applicator(arxiuOrigen, arxiuDesti):
 	print('File \'output.xml\' created ')
 	arbreD.write('output.xml',encoding="UTF-8",xml_declaration=True)
 
+def carregator(nomArxiu):
+	# carrega un XML a una variable de tipus conjunt
+	print('Carregant l\'arxiu XML ... ' + nomArxiu)
+	xmlmateries = {}
+	tree = ET.parse(nomArxiu)
+	root = tree.getroot()
+	cont = 0
+    
+	materies = root.find("MATERIES")
+	for materia in materies:
+		cont+=1
+		xmlmateries[materia.get("codi")] = {
+											'curta': materia.get("curta"),
+											'descripcio': materia.get("descripcio")
+											}
+	print('{0} materies carregades'.format(cont))
+	return xmlmateries
+	
+def comparator(materiesO, materiesD):
+	# print('Loading XML data from [' + arxiuDesti + '], compares to [' + arxiuOrigen + '] for viewing')
+	# comparar materiesO amb materiesD tractat mitjançant variables tipus conjunt
+	xmlmateries = {}
+	for mD in materiesD:
+		"""
+		print(mO)
+		print(materiesO[mO])
+		print(materiesO[mO].get('curta'))
+		print(materiesO[mO].get('descripcio'))
+
+		# cercam materiaDesti a materiaOrigen
+		trobat = False
+		try:
+			# existeix i els codis son iguals ?
+			if (materiesD[mD].get('curta') == materiesO[mD].get('curta')):
+				if (materies
+		except KeyError:
+			print("No Name exist!")
+		"""
+		trobat = False
+		for mO in materiesO:
+			if (materiesD[mD].get('curta') == materiesO[mO].get('curta')):
+				trobat = True
+				if (mD != mO):
+					xmlmateries[mD] = { 'curta': materiesD[mD].get('curta'),
+										'descripcio': materiesD[mD].get('descripcio')
+									  }
+				else:
+					xmlmateries[mO] = { 'curta': materiesD[mD].get('curta'),
+										'descripcio': materiesD[mD].get('descripcio')
+									  }
+
+		# sino es troba
+		if not trobat:
+			xmlmateries[mD] = { 'curta': materiesD[mD].get('curta'),
+								'descripcio': materiesD[mD].get('descripcio')
+							  }
+			# print(materiesD[mD].get('curta') + ' no es troba')
+	return xmlmateries
+
 def viewator(arxiuOrigen, arxiuDesti):
-	print('Loading XML data from [' + arxiuDesti + '], compares to [' + arxiuOrigen + '] for viewing')
+	print('Arxiu ORIGEN: ' + arxiuOrigen)
+	xmlmateriesORIGEN = carregator(arxiuOrigen)
+	print('Arxiu DESTI: ' + arxiuDesti)
+	xmlmateriesDESTI = carregator(arxiuDesti)
+	# totes
+	print('ORIGEN --------------------------')
+	print(xmlmateriesORIGEN)
+	print('DESTI  --------------------------')
+	print(xmlmateriesDESTI)
+	# cada una d'elles
+	xmlmateries = comparator(xmlmateriesORIGEN, xmlmateriesDESTI)
+	print('COMPARACIÓ --------------------------')
+	print(xmlmateries)
 
 # STARTING UP ------------------------------------------------------------------------------------
 if __name__ == '__main__':
 	if args.apply:
-		modificator(args.gestib[0], args.gestib[1])
+		applicator(args.gestib[0], args.gestib[1])
 	elif args.view:
 		viewator(args.gestib[0], args.gestib[1])
+

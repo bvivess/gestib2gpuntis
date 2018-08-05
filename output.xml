@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CENTRE any="2018" codi="YFQ4S798">
+    <CURSOS>
+    <CURS codi="62" descripcio="1r ESO">
+        <GRUP codi="394267" nom="A" />
+        <GRUP codi="394415" nom="B" />
+        <GRUP codi="394416" nom="C" />
+        <GRUP codi="394417" nom="D" />
+        </CURS>
+    <CURS codi="66" descripcio="1r Batx.">
+        <GRUP codi="394430" nom="A" />
+        <GRUP codi="394431" nom="B" />
+        </CURS>
+    <CURS codi="67" descripcio="2n batx.">
+        <GRUP codi="394432" nom="A" />
+        <GRUP codi="394433" nom="B" />
+        </CURS>
+    <CURS codi="94" descripcio="3r ESO">
+        <GRUP codi="394422" nom="A" />
+        <GRUP codi="394423" nom="B" />
+        <GRUP codi="394424" nom="C" />
+        <GRUP codi="394425" nom="D" />
+        <GRUP codi="395105" nom="P" />
+        </CURS>
+    <CURS codi="95" descripcio="4t ESO">
+        <GRUP codi="394426" nom="A" />
+        <GRUP codi="394427" nom="B" />
+        <GRUP codi="394428" nom="C" />
+        <GRUP codi="394429" nom="P" />
+        </CURS>
+    <CURS codi="563" descripcio="2n ESO">
+        <GRUP codi="394418" nom="A" />
+        <GRUP codi="394419" nom="B" />
+        <GRUP codi="394420" nom="C" />
+        <GRUP codi="404275" nom="P" />
+        </CURS>
+    <CURS codi="7051" descripcio="IFC31">
+        <GRUP codi="394439" nom="A" />
+        <GRUP codi="394440" nom="B" />
+        <GRUP codi="404277" nom="C" />
+        <GRUP codi="394442" nom="F" />
+        </CURS>
+    <CURS codi="7837" descripcio="IFC21">
+        <GRUP codi="394437" nom="A" />
+        <GRUP codi="394438" nom="B" />
+        <GRUP codi="404280" nom="C" />
+        <GRUP codi="394441" nom="F" />
+        </CURS>
+    </CURSOS>
+    <PLACES>
+    <PLACA codi="8071" curta="?NO1" descripcio="?NO1" />
+    <PLACA codi="8072" curta="GIH1" descripcio="SALVA, TOMEU" />
+    <PLACA codi="8073" curta="BIO1" descripcio="MARTINEZ, TONI" />
+    <PLACA codi="8076" curta="ANG1" descripcio="INT1 ANG" />
+    <PLACA codi="8078" curta="ANG2" descripcio="BAUZA, JOANA" />
+    <PLACA codi="8081" curta="TEC1" descripcio="MUT, ANA" />
+    <PLACA codi="8082" curta="CAS1" descripcio="INT1 CAS" />
+    <PLACA codi="8083" curta="BIO2" descripcio="INT1 BIO" />
+    <PLACA codi="8084" curta="GIH2" descripcio="INT1 GIH" />
+    <PLACA codi="8085" curta="BIO3" descripcio="MARTI, CATIBEL" />
+    <PLACA codi="8086" curta="GIH3" descripcio="BELENGUER, CATERINA" />
+    <PLACA codi="8087" curta="CAT1" descripcio="INT1 CAT" />
+    <PLACA codi="8088" curta="MAT1" descripcio="JAUME, MAGDALENA" />
+    <PLACA codi="8090" curta="?NO3" descripcio="?NO3" />
+    <PLACA codi="8093" curta="CAS2" descripcio="INT2 CAS" />
+    <PLACA codi="8094" curta="FRA1" descripcio="INT1 FRA" />
+    <PLACA codi="8095" curta="FIQ1" descripcio="INT1 FIQ" />
+    <PLACA codi="8096" curta="MAT2" descripcio="INT1 MAT" />
+    <PLACA codi="8097" curta="FIL1" descripcio="RIERA, PERE" />
+    <PLACA codi="8098" curta="AML1" descripcio="CRESPI, XISCA" />
+    <PLACA codi="8100" curta="CAT2" descripcio="GAYA, AINA" />
+    <PLACA codi="8101" curta="DIB1" descripcio="ALVAREZ, OMAR" />
+    <PLACA codi="8102" curta="EDF1" descripcio="FRANCIA, ANT.MAR." />
+    <PLACA codi="8103" curta="CAS3" descripcio="MAS, M.ANGEL" />
+    <PLACA codi="8104" curta="MUS1" descripcio="REVERT, VICTOR" />
+    <PLACA codi="8105" curta="FIQ2" descripcio="INT2 FIQ" />
+    <PLACA codi="8106" curta="ANG3" descripcio="PINTO, EMMA" />
+    <PLACA codi="8109" curta="CAS4" descripcio="FEMENIAS, MAITE" />
+    <PLACA codi="8110" curta="TEC2" descripcio="JOVER, MAR. ANT." />
+    <PLACA codi="8111" curta="ANG4" descripcio="RABANAL, MAITE" />
+    <PLACA codi="8112" curta="AMC1" descripcio="INT1 AMC" />
+    <PLACA codi="8114" curta="CAT3" descripcio="INT2 CAT" />
+    <PLACA codi="8115" curta="ANG5" descripcio="INT2 ANG" />
+    <PLACA codi="8116" curta="MAT3" descripcio="INT2 MAT" />
+    <PLACA codi="8118" curta="BIO4" descripcio="TUR, MARGA" />
+    <PLACA codi="8119" curta="INF1" descripcio="INT1 INF" />
+    <PLACA codi="8120" curta="ECO1" descripcio="INT1 ECO 1/2" />
+    <PLACA codi="8123" curta="CAT4" descripcio="CALDENTEY, CATALINA" />
+    <PLACA codi="8125" curta="GIH4" descripcio="MESTRE, ANTONIA" />
+    <PLACA codi="8127" curta="DIB2" descripcio="VENTAYOL, ADOLFO" />
+    <PLACA codi="8128" curta="ANG6" descripcio="INT3 ANG" />
+    <PLACA codi="8129" curta="CAT5" descripcio="LLORENÇ, DORA" />
+    <PLACA codi="8133" curta="EDF2" descripcio="INT1 EDF 1/2" />
+    <PLACA codi="8135" curta="INF2" descripcio="VIVES, TOMEU" />
+    <PLACA codi="20987" curta="CCL1" descripcio="MUT, JOAN" />
+    <PLACA codi="20989" curta="TEC3" descripcio="INT1 TEC" />
+    <PLACA codi="28391" curta="REL1" descripcio="LOPEZ, SANTI" />
+    <PLACA codi="33704" curta="MAT4" descripcio="TERRASA, LOURDES" />
+    <PLACA codi="34433" curta="ECO2" descripcio="DOBLAS, NATI" />
+    <PLACA codi="35191" curta="ORI1" descripcio="MARTINEZ, SUSANA" />
+    <PLACA codi="35193" curta="INF3" descripcio="PALLARES, BENJA" />
+    <PLACA codi="35199" curta="PTE2" descripcio="SANCHEZ, SANTI" />
+    <PLACA codi="35201" curta="INF4" descripcio="INT2 INF" />
+    <PLACA codi="52604" curta="ANG7" descripcio="PARRA, NOELIA" />
+    <PLACA codi="104593" curta="FIQ3" descripcio="INT3 FIQ" />
+    <PLACA codi="111864" curta="EDF3" descripcio="NADAL, GUILLEM" />
+    <PLACA codi="111865" curta="SAI1" descripcio="SANCHEZ, TERESA" />
+    <PLACA codi="111866" curta="SAI2" descripcio="INT1 SAI" />
+    <PLACA codi="111867" curta="SAI3" descripcio="SALORD, JOSEP" />
+    <PLACA codi="111868" curta="INF5" descripcio="INT3 INF" />
+    <PLACA codi="111870" curta="AML2" descripcio="INT1 AML 1/2" />
+    <PLACA codi="111871" curta="?NO2" descripcio="?NO2" />
+    <PLACA codi="113484" curta="GIH5" descripcio="INT3 GIH 1/2" />
+    <PLACA codi="113485" curta="INF6" descripcio="INT4 INF 1/2" />
+    <PLACA codi="113486" curta="MAT5" descripcio="INT3 MAT 1/2" />
+    <PLACA codi="113487" curta="ALM1" descripcio="INT1 ALE 1/2" />
+    <PLACA codi="113488" curta="FIL2" descripcio="INT1 FIL 1/2" />
+    <PLACA codi="113489" curta="AMP1" descripcio="VICENÇ, TOMEU" />
+    <PLACA codi="113490" curta="PTE1" descripcio="INT1 PTE" />
+    <PLACA codi="113544" curta="AMC2" descripcio="INT2 AMC 1/2" />
+    </PLACES>
+    <DEPARTAMENTS>
+    <DEPARTAMENT codi="545" descripcio="Activitats complementàries i extraescolars" />
+    <DEPARTAMENT codi="553" descripcio="Anglès (EOI)" />
+    <DEPARTAMENT codi="546" descripcio="Arts plàstiques" />
+    <DEPARTAMENT codi="563" descripcio="Biologia i geologia" />
+    <DEPARTAMENT codi="547" descripcio="Ciències naturals" />
+    <DEPARTAMENT codi="565" descripcio="Ciències socials, geografia i història" />
+    <DEPARTAMENT codi="562" descripcio="Dibuix i educació plàstica i visual" />
+    <DEPARTAMENT codi="548" descripcio="Educació física i esportiva" />
+    <DEPARTAMENT codi="549" descripcio="Filosofia" />
+    <DEPARTAMENT codi="550" descripcio="Física i química" />
+    <DEPARTAMENT codi="6489" descripcio="Formació i orientació laboral" />
+    <DEPARTAMENT codi="551" descripcio="Francès (EOI)" />
+    <DEPARTAMENT codi="552" descripcio="Geografia i història" />
+    <DEPARTAMENT codi="561" descripcio="Informàtica i comunicacions (F.P.)" />
+    <DEPARTAMENT codi="554" descripcio="Llatí" />
+    <DEPARTAMENT codi="555" descripcio="Llengua castellana i literatura" />
+    <DEPARTAMENT codi="556" descripcio="Llengua catalana i literatura" />
+    <DEPARTAMENT codi="564" descripcio="Llengües estrangeres" />
+    <DEPARTAMENT codi="557" descripcio="Matemàtiques" />
+    <DEPARTAMENT codi="558" descripcio="Música" />
+    <DEPARTAMENT codi="544" descripcio="Orientació" />
+    <DEPARTAMENT codi="560" descripcio="Tecnologia" />
+    </DEPARTAMENTS>
+    <MATERIES>
+    <MATERIA codi="1111110" curs="62" curta="111" departament="" descripcio="Biologia i geologia - A-1E" />
+    <MATERIA codi="2222222" curs="62" curta="222" departament="" descripcio="Biologia i geologia - B-1E" />
+    <MATERIA codi="3333333" curs="62" curta="333" departament="" descripcio="Biologia i geologia - C-1E" />
+	<MATERIA codi="9999999" curs="62" curta="NOVA" departament="" descripcio="NOVA SUBMATERIA" />
+    </MATERIES>
+</CENTRE>

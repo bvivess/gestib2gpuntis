@@ -1,0 +1,955 @@
+﻿<CENTRE codi="YFQ4S798"  any="2018">
+    <CURSOS>
+    <CURS
+        codi="62"
+        descripcio="1r ESO">
+        <GRUP
+            codi="394267"
+            nom="A"
+        />
+        <GRUP
+            codi="394415"
+            nom="B"
+        />
+        <GRUP
+            codi="394416"
+            nom="C"
+        />
+        <GRUP
+            codi="394417"
+            nom="D"
+        />
+        </CURS>
+    <CURS
+        codi="66"
+        descripcio="1r Batx.">
+        <GRUP
+            codi="394430"
+            nom="A"
+        />
+        <GRUP
+            codi="394431"
+            nom="B"
+        />
+        </CURS>
+    <CURS
+        codi="67"
+        descripcio="2n batx.">
+        <GRUP
+            codi="394432"
+            nom="A"
+        />
+        <GRUP
+            codi="394433"
+            nom="B"
+        />
+        </CURS>
+    <CURS
+        codi="94"
+        descripcio="3r ESO">
+        <GRUP
+            codi="394422"
+            nom="A"
+        />
+        <GRUP
+            codi="394423"
+            nom="B"
+        />
+        <GRUP
+            codi="394424"
+            nom="C"
+        />
+        <GRUP
+            codi="394425"
+            nom="D"
+        />
+        <GRUP
+            codi="395105"
+            nom="P"
+        />
+        </CURS>
+    <CURS
+        codi="95"
+        descripcio="4t ESO">
+        <GRUP
+            codi="394426"
+            nom="A"
+        />
+        <GRUP
+            codi="394427"
+            nom="B"
+        />
+        <GRUP
+            codi="394428"
+            nom="C"
+        />
+        <GRUP
+            codi="394429"
+            nom="P"
+        />
+        </CURS>
+    <CURS
+        codi="563"
+        descripcio="2n ESO">
+        <GRUP
+            codi="394418"
+            nom="A"
+        />
+        <GRUP
+            codi="394419"
+            nom="B"
+        />
+        <GRUP
+            codi="394420"
+            nom="C"
+        />
+        <GRUP
+            codi="404275"
+            nom="P"
+        />
+        </CURS>
+    <CURS
+        codi="7051"
+        descripcio="IFC31">
+        <GRUP
+            codi="394439"
+            nom="A"
+        />
+        <GRUP
+            codi="394440"
+            nom="B"
+        />
+        <GRUP
+            codi="404277"
+            nom="C"
+        />
+        <GRUP
+            codi="394442"
+            nom="F"
+        />
+        </CURS>
+    <CURS
+        codi="7837"
+        descripcio="IFC21">
+        <GRUP
+            codi="394437"
+            nom="A"
+        />
+        <GRUP
+            codi="394438"
+            nom="B"
+        />
+        <GRUP
+            codi="404280"
+            nom="C"
+        />
+        <GRUP
+            codi="394441"
+            nom="F"
+        />
+        </CURS>
+    </CURSOS>
+    <PLACES>
+    <PLACA
+        codi="8071"
+        descripcio="?NO1"
+        curta="?NO1"
+    />
+    <PLACA
+        codi="8072"
+        descripcio="SALVA, TOMEU"
+        curta="GIH1"
+    />
+    <PLACA
+        codi="8073"
+        descripcio="MARTINEZ, TONI"
+        curta="BIO1"
+    />
+    <PLACA
+        codi="8076"
+        descripcio="INT1 ANG"
+        curta="ANG1"
+    />
+    <PLACA
+        codi="8078"
+        descripcio="BAUZA, JOANA"
+        curta="ANG2"
+    />
+    <PLACA
+        codi="8081"
+        descripcio="MUT, ANA"
+        curta="TEC1"
+    />
+    <PLACA
+        codi="8082"
+        descripcio="INT1 CAS"
+        curta="CAS1"
+    />
+    <PLACA
+        codi="8083"
+        descripcio="INT1 BIO"
+        curta="BIO2"
+    />
+    <PLACA
+        codi="8084"
+        descripcio="INT1 GIH"
+        curta="GIH2"
+    />
+    <PLACA
+        codi="8085"
+        descripcio="MARTI, CATIBEL"
+        curta="BIO3"
+    />
+    <PLACA
+        codi="8086"
+        descripcio="BELENGUER, CATERINA"
+        curta="GIH3"
+    />
+    <PLACA
+        codi="8087"
+        descripcio="INT1 CAT"
+        curta="CAT1"
+    />
+    <PLACA
+        codi="8088"
+        descripcio="JAUME, MAGDALENA"
+        curta="MAT1"
+    />
+    <PLACA
+        codi="8090"
+        descripcio="?NO3"
+        curta="?NO3"
+    />
+    <PLACA
+        codi="8093"
+        descripcio="INT2 CAS"
+        curta="CAS2"
+    />
+    <PLACA
+        codi="8094"
+        descripcio="INT1 FRA"
+        curta="FRA1"
+    />
+    <PLACA
+        codi="8095"
+        descripcio="INT1 FIQ"
+        curta="FIQ1"
+    />
+    <PLACA
+        codi="8096"
+        descripcio="INT1 MAT"
+        curta="MAT2"
+    />
+    <PLACA
+        codi="8097"
+        descripcio="RIERA, PERE"
+        curta="FIL1"
+    />
+    <PLACA
+        codi="8098"
+        descripcio="CRESPI, XISCA"
+        curta="AML1"
+    />
+    <PLACA
+        codi="8100"
+        descripcio="GAYA, AINA"
+        curta="CAT2"
+    />
+    <PLACA
+        codi="8101"
+        descripcio="ALVAREZ, OMAR"
+        curta="DIB1"
+    />
+    <PLACA
+        codi="8102"
+        descripcio="FRANCIA, ANT.MAR."
+        curta="EDF1"
+    />
+    <PLACA
+        codi="8103"
+        descripcio="MAS, M.ANGEL"
+        curta="CAS3"
+    />
+    <PLACA
+        codi="8104"
+        descripcio="REVERT, VICTOR"
+        curta="MUS1"
+    />
+    <PLACA
+        codi="8105"
+        descripcio="INT2 FIQ"
+        curta="FIQ2"
+    />
+    <PLACA
+        codi="8106"
+        descripcio="PINTO, EMMA"
+        curta="ANG3"
+    />
+    <PLACA
+        codi="8109"
+        descripcio="FEMENIAS, MAITE"
+        curta="CAS4"
+    />
+    <PLACA
+        codi="8110"
+        descripcio="JOVER, MAR. ANT."
+        curta="TEC2"
+    />
+    <PLACA
+        codi="8111"
+        descripcio="RABANAL, MAITE"
+        curta="ANG4"
+    />
+    <PLACA
+        codi="8112"
+        descripcio="INT1 AMC"
+        curta="AMC1"
+    />
+    <PLACA
+        codi="8114"
+        descripcio="INT2 CAT"
+        curta="CAT3"
+    />
+    <PLACA
+        codi="8115"
+        descripcio="INT2 ANG"
+        curta="ANG5"
+    />
+    <PLACA
+        codi="8116"
+        descripcio="INT2 MAT"
+        curta="MAT3"
+    />
+    <PLACA
+        codi="8118"
+        descripcio="TUR, MARGA"
+        curta="BIO4"
+    />
+    <PLACA
+        codi="8119"
+        descripcio="INT1 INF"
+        curta="INF1"
+    />
+    <PLACA
+        codi="8120"
+        descripcio="INT1 ECO 1/2"
+        curta="ECO1"
+    />
+    <PLACA
+        codi="8123"
+        descripcio="CALDENTEY, CATALINA"
+        curta="CAT4"
+    />
+    <PLACA
+        codi="8125"
+        descripcio="MESTRE, ANTONIA"
+        curta="GIH4"
+    />
+    <PLACA
+        codi="8127"
+        descripcio="VENTAYOL, ADOLFO"
+        curta="DIB2"
+    />
+    <PLACA
+        codi="8128"
+        descripcio="INT3 ANG"
+        curta="ANG6"
+    />
+    <PLACA
+        codi="8129"
+        descripcio="LLORENÇ, DORA"
+        curta="CAT5"
+    />
+    <PLACA
+        codi="8133"
+        descripcio="INT1 EDF 1/2"
+        curta="EDF2"
+    />
+    <PLACA
+        codi="8135"
+        descripcio="VIVES, TOMEU"
+        curta="INF2"
+    />
+    <PLACA
+        codi="20987"
+        descripcio="MUT, JOAN"
+        curta="CCL1"
+    />
+    <PLACA
+        codi="20989"
+        descripcio="INT1 TEC"
+        curta="TEC3"
+    />
+    <PLACA
+        codi="28391"
+        descripcio="LOPEZ, SANTI"
+        curta="REL1"
+    />
+    <PLACA
+        codi="33704"
+        descripcio="TERRASA, LOURDES"
+        curta="MAT4"
+    />
+    <PLACA
+        codi="34433"
+        descripcio="DOBLAS, NATI"
+        curta="ECO2"
+    />
+    <PLACA
+        codi="35191"
+        descripcio="MARTINEZ, SUSANA"
+        curta="ORI1"
+    />
+    <PLACA
+        codi="35193"
+        descripcio="PALLARES, BENJA"
+        curta="INF3"
+    />
+    <PLACA
+        codi="35199"
+        descripcio="SANCHEZ, SANTI"
+        curta="PTE2"
+    />
+    <PLACA
+        codi="35201"
+        descripcio="INT2 INF"
+        curta="INF4"
+    />
+    <PLACA
+        codi="52604"
+        descripcio="PARRA, NOELIA"
+        curta="ANG7"
+    />
+    <PLACA
+        codi="104593"
+        descripcio="INT3 FIQ"
+        curta="FIQ3"
+    />
+    <PLACA
+        codi="111864"
+        descripcio="NADAL, GUILLEM"
+        curta="EDF3"
+    />
+    <PLACA
+        codi="111865"
+        descripcio="SANCHEZ, TERESA"
+        curta="SAI1"
+    />
+    <PLACA
+        codi="111866"
+        descripcio="INT1 SAI"
+        curta="SAI2"
+    />
+    <PLACA
+        codi="111867"
+        descripcio="SALORD, JOSEP"
+        curta="SAI3"
+    />
+    <PLACA
+        codi="111868"
+        descripcio="INT3 INF"
+        curta="INF5"
+    />
+    <PLACA
+        codi="111870"
+        descripcio="INT1 AML 1/2"
+        curta="AML2"
+    />
+    <PLACA
+        codi="111871"
+        descripcio="?NO2"
+        curta="?NO2"
+    />
+    <PLACA
+        codi="113484"
+        descripcio="INT3 GIH 1/2"
+        curta="GIH5"
+    />
+    <PLACA
+        codi="113485"
+        descripcio="INT4 INF 1/2"
+        curta="INF6"
+    />
+    <PLACA
+        codi="113486"
+        descripcio="INT3 MAT 1/2"
+        curta="MAT5"
+    />
+    <PLACA
+        codi="113487"
+        descripcio="INT1 ALE 1/2"
+        curta="ALM1"
+    />
+    <PLACA
+        codi="113488"
+        descripcio="INT1 FIL 1/2"
+        curta="FIL2"
+    />
+    <PLACA
+        codi="113489"
+        descripcio="VICENÇ, TOMEU"
+        curta="AMP1"
+    />
+    <PLACA
+        codi="113490"
+        descripcio="INT1 PTE"
+        curta="PTE1"
+    />
+    <PLACA
+        codi="113544"
+        descripcio="INT2 AMC 1/2"
+        curta="AMC2"
+    />
+    </PLACES>
+    <DEPARTAMENTS>
+    <DEPARTAMENT
+    codi="545"
+    descripcio="Activitats complementàries i extraescolars"   />
+    <DEPARTAMENT
+    codi="553"
+    descripcio="Anglès (EOI)"   />
+    <DEPARTAMENT
+    codi="546"
+    descripcio="Arts plàstiques"   />
+    <DEPARTAMENT
+    codi="563"
+    descripcio="Biologia i geologia"   />
+    <DEPARTAMENT
+    codi="547"
+    descripcio="Ciències naturals"   />
+    <DEPARTAMENT
+    codi="565"
+    descripcio="Ciències socials, geografia i història"   />
+    <DEPARTAMENT
+    codi="562"
+    descripcio="Dibuix i educació plàstica i visual"   />
+    <DEPARTAMENT
+    codi="548"
+    descripcio="Educació física i esportiva"   />
+    <DEPARTAMENT
+    codi="549"
+    descripcio="Filosofia"   />
+    <DEPARTAMENT
+    codi="550"
+    descripcio="Física i química"   />
+    <DEPARTAMENT
+    codi="6489"
+    descripcio="Formació i orientació laboral"   />
+    <DEPARTAMENT
+    codi="551"
+    descripcio="Francès (EOI)"   />
+    <DEPARTAMENT
+    codi="552"
+    descripcio="Geografia i història"   />
+    <DEPARTAMENT
+    codi="561"
+    descripcio="Informàtica i comunicacions (F.P.)"   />
+    <DEPARTAMENT
+    codi="554"
+    descripcio="Llatí"   />
+    <DEPARTAMENT
+    codi="555"
+    descripcio="Llengua castellana i literatura"   />
+    <DEPARTAMENT
+    codi="556"
+    descripcio="Llengua catalana i literatura"   />
+    <DEPARTAMENT
+    codi="564"
+    descripcio="Llengües estrangeres"   />
+    <DEPARTAMENT
+    codi="557"
+    descripcio="Matemàtiques"   />
+    <DEPARTAMENT
+    codi="558"
+    descripcio="Música"   />
+    <DEPARTAMENT
+    codi="544"
+    descripcio="Orientació"   />
+    <DEPARTAMENT
+    codi="560"
+    descripcio="Tecnologia"   />
+    </DEPARTAMENTS>
+    <MATERIES>
+    <MATERIA
+        codi="1111110"
+        curs="62"
+        descripcio="Biologia i geologia - A-1E"
+        curta="111"
+        departament=""
+    />
+    <MATERIA
+        codi="2222222"
+        curs="62"
+        descripcio="Biologia i geologia - B-1E"
+        curta="222"
+        departament=""
+    />
+    <MATERIA
+        codi="3333333"
+        curs="62"
+        descripcio="Biologia i geologia - C-1E"
+        curta="333"
+        departament=""
+    />
+    </MATERIES>
+    <ACTIVITATS>
+    <ACTIVITAT
+        codi="40"
+        descripcio="Altres activitats complementàries"
+        curta="Altres activitats complement."
+            />
+    <ACTIVITAT
+        codi="38"
+        descripcio="*Assistència a CCP (IES)"
+        curta="*Assistència a CCP"
+            />
+    <ACTIVITAT
+        codi="31"
+        descripcio="Atenció a pares, mares o tutors legals"
+        curta="Atenció a pares/mares/tutors"
+            />
+    <ACTIVITAT
+        codi="75"
+        descripcio="Compensació hores lectives"
+        curta="CHL"
+            />
+    <ACTIVITAT
+        codi="3"
+        descripcio="*Dedicació a cap de departament"
+        curta="*Dedicació al departament"
+            />
+    <ACTIVITAT
+        codi="4"
+        descripcio="*Dedicació a cap de família professional"
+        curta="*Dedicació família professional"
+            />
+    <ACTIVITAT
+        codi="64"
+        descripcio="*Dedicació a coordinació"
+        curta="*Coordinació"
+            />
+    <ACTIVITAT
+        codi="44"
+        descripcio="Dedicació a coordinació"
+        curta="Coordinació"
+            />
+    <ACTIVITAT
+        codi="8"
+        descripcio="*Dedicació a direcció"
+        curta="*Direcció"
+            />
+    <ACTIVITAT
+        codi="63"
+        descripcio="*Dedicació a orientació"
+        curta="*Orientació"
+            />
+    <ACTIVITAT
+        codi="46"
+        descripcio="Dedicació a orientació"
+        curta="Orientació"
+            />
+    <ACTIVITAT
+        codi="10"
+        descripcio="*Dedicació a prefectura d&#039;estudis"
+        curta="*Dedicació prefectura d&#039;estudis"
+            />
+    <ACTIVITAT
+        codi="9"
+        descripcio="*Dedicació a secretaria"
+        curta="*Secretaria"
+            />
+    <ACTIVITAT
+        codi="65"
+        descripcio="*Dedicació a subdepartament"
+        curta="*Dedicació a subdepartament"
+            />
+    <ACTIVITAT
+        codi="82"
+        descripcio="Dedicació al programa EOIES"
+        curta="Programa EOIES"
+            />
+    <ACTIVITAT
+        codi="81"
+        descripcio="*Dedicació al programa EOIES"
+        curta="*Programa EOIES"
+            />
+    <ACTIVITAT
+        codi="21"
+        descripcio="Despatx i reunions de l&#039;equip directiu"
+        curta="Dedicació equip directiu"
+            />
+    <ACTIVITAT
+        codi="18"
+        descripcio="Guàrdia"
+        curta="Guàrdia"
+            />
+    <ACTIVITAT
+        codi="19"
+        descripcio="Guàrdia de biblioteca"
+        curta="Guàrdia de biblioteca"
+            />
+    <ACTIVITAT
+        codi="30"
+        descripcio="Guàrdia de pati (IES)"
+        curta="Guàrdia de pati"
+            />
+    <ACTIVITAT
+        codi="53"
+        descripcio="*Hores de docència al PALIC (IES)"
+        curta="*H. de docència al PALIC"
+            />
+    <ACTIVITAT
+        codi="2"
+        descripcio="*Hores dedicades a reforç i ampliació"
+        curta="*Hores de reforç a l&#039;alumnat"
+            />
+    <ACTIVITAT
+        codi="56"
+        descripcio="*Hores desdoblaments de grups"
+        curta="*Hores desdoblaments de grups"
+            />
+    <ACTIVITAT
+        codi="51"
+        descripcio="Majors de 55 anys"
+        curta="Majors de 55 anys"
+            />
+    <ACTIVITAT
+        codi="17"
+        descripcio="*Majors de 55 anys"
+        curta="*Majors de 55 anys"
+            />
+    <ACTIVITAT
+        codi="47"
+        descripcio="Manteniment de les aules específiques"
+        curta="Mant. aules específiques"
+            />
+    <ACTIVITAT
+        codi="26"
+        descripcio="Participació en projectes institucionals"
+        curta="Projectes institucionals"
+            />
+    <ACTIVITAT
+        codi="79"
+        descripcio="*Preparació de mòdul impartit en anglès (FP)"
+        curta="*Preparació mòdul en anglès (FP)"
+            />
+    <ACTIVITAT
+        codi="6"
+        descripcio="Preparació de pràctiques (Arts)"
+        curta="Preparació de pràctiques"
+            />
+    <ACTIVITAT
+        codi="33"
+        descripcio="Programació d&#039;activitats d&#039;aula (Infantil i Primària)"
+        curta="Programació activitats d&#039;aula"
+            />
+    <ACTIVITAT
+        codi="49"
+        descripcio="*Realització de projectes de recerca"
+        curta="*Projectes de recerca"
+            />
+    <ACTIVITAT
+        codi="5"
+        descripcio="Reducció per itineràncies"
+        curta="Itinerant"
+            />
+    <ACTIVITAT
+        codi="67"
+        descripcio="*Reducció per itineràncies"
+        curta="*Itinerant"
+            />
+    <ACTIVITAT
+        codi="68"
+        descripcio="Reducció retribuïda per conciliació de la vida familiar i laboral"
+        curta="Conciliació vida laboral i Fam"
+            />
+    <ACTIVITAT
+        codi="24"
+        descripcio="Representació en el CEP"
+        curta="Repres. prof. CEP"
+            />
+    <ACTIVITAT
+        codi="23"
+        descripcio="Representació en el Consell Escolar"
+        curta="Repres. prof. consell escolar"
+            />
+    <ACTIVITAT
+        codi="20"
+        descripcio="Reunió de departament"
+        curta="Reunió departament"
+            />
+    <ACTIVITAT
+        codi="35"
+        descripcio="Reunió de tutors"
+        curta="Reunió de tutors"
+            />
+    <ACTIVITAT
+        codi="32"
+        descripcio="Reunions coordinació docent"
+        curta="Reunions coordinació docent"
+            />
+    <ACTIVITAT
+        codi="57"
+        descripcio="Seguiment alumnat PISE"
+        curta="Seguiment alumnat PISE"
+            />
+    <ACTIVITAT
+        codi="62"
+        descripcio="*Tutoria"
+        curta="*Tutoria"
+            />
+    <ACTIVITAT
+        codi="48"
+        descripcio="*Tutoria de pràctiques (Arts)"
+        curta="*Tutoria de pràctiques (Arts)"
+            />
+    <ACTIVITAT
+        codi="74"
+        descripcio="Tutoria de pràctiques (Arts)"
+        curta="Tutoria de pràctiques (Arts)"
+            />
+    <ACTIVITAT
+        codi="25"
+        descripcio="Tutoria de professors en pràctiques"
+        curta="Tutor prof. en pràctiques"
+            />
+    <ACTIVITAT
+        codi="73"
+        descripcio="*Tutoria de projecte/obra final (Arts)"
+        curta="*Tutoria de projecte/obra final"
+            />
+    <ACTIVITAT
+        codi="45"
+        descripcio="*Tutoria FCT"
+        curta="*Tutoria FCT"
+            />
+    <ACTIVITAT
+        codi="72"
+        descripcio="Tutoria FCT"
+        curta="Tutoria FCT"
+            />
+    <ACTIVITAT
+        codi="22"
+        descripcio="Tutoria no lectiva"
+        curta="Tutoria no lectiva"
+            />
+    <ACTIVITAT
+        codi="66"
+        descripcio="*Vigilància a l&#039;hora de l&#039;esplai (Infantil , Primària i EEB)"
+        curta="*Vigilància d&#039;esplai"
+            />
+    </ACTIVITATS>
+    <AULES>
+    <AULA
+        codi="2710"
+        descripcio="BIB"   />        
+    <AULA
+        codi="2705"
+        descripcio="PL1"   />        
+    <AULA
+        codi="2715"
+        descripcio="PL2"   />        
+    <AULA
+        codi="2714"
+        descripcio="PT1"   />        
+    <AULA
+        codi="2737"
+        descripcio="PT2"   />        
+    <AULA
+        codi="2706"
+        descripcio="SAC"   />        
+    <AULA
+        codi="2716"
+        descripcio="0-01 (PLA)"   />        
+    <AULA
+        codi="2718"
+        descripcio="0-02"   />        
+    <AULA
+        codi="2727"
+        descripcio="0-03 (TEC)"   />        
+    <AULA
+        codi="2720"
+        descripcio="0-04 (TEC)"   />        
+    <AULA
+        codi="2700"
+        descripcio="1-01"   />        
+    <AULA
+        codi="2701"
+        descripcio="1-02"   />        
+    <AULA
+        codi="2724"
+        descripcio="1-03"   />        
+    <AULA
+        codi="2717"
+        descripcio="1-04A (LAB)"   />        
+    <AULA
+        codi="2734"
+        descripcio="1-04B (LAB)"   />        
+    <AULA
+        codi="2703"
+        descripcio="1-05"   />        
+    <AULA
+        codi="2728"
+        descripcio="1-06"   />        
+    <AULA
+        codi="2713"
+        descripcio="1-07"   />        
+    <AULA
+        codi="2736"
+        descripcio="1-08"   />        
+    <AULA
+        codi="2704"
+        descripcio="1-09"   />        
+    <AULA
+        codi="2711"
+        descripcio="1-10 (MUS)"   />        
+    <AULA
+        codi="2732"
+        descripcio="1-11"   />        
+    <AULA
+        codi="2702"
+        descripcio="1-12"   />        
+    <AULA
+        codi="2735"
+        descripcio="2-01"   />        
+    <AULA
+        codi="2721"
+        descripcio="2-02"   />        
+    <AULA
+        codi="2730"
+        descripcio="2-03"   />        
+    <AULA
+        codi="2707"
+        descripcio="2-04"   />        
+    <AULA
+        codi="2722"
+        descripcio="2-05"   />        
+    <AULA
+        codi="2709"
+        descripcio="2-06"   />        
+    <AULA
+        codi="2726"
+        descripcio="2-07 (INF)"   />        
+    <AULA
+        codi="2731"
+        descripcio="2-08 (INF)"   />        
+    <AULA
+        codi="2725"
+        descripcio="2-09"   />        
+    <AULA
+        codi="2712"
+        descripcio="2-10"   />        
+    <AULA
+        codi="2729"
+        descripcio="2-11"   />        
+    <AULA
+        codi="2708"
+        descripcio="2-12"   />        
+    </AULES>
+</CENTRE>
+
+
+
+
+
+
